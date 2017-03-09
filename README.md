@@ -1,6 +1,8 @@
 # MyYoutube
 
-Xcode Swift3 CocoaPods
+IOS App
+
+Xcode   Swift3   CocoaPods
 
 its an app that can search and watch youtube video using youtube api
 
